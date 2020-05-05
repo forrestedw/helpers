@@ -1,0 +1,12 @@
+{
+    "name": "forrestedw/helpers",
+    "description": "Simple helpers to make human readable code.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "forrestedw",
+            "email": "forrestedw@gmail.com"
+        }
+    ]
+}
