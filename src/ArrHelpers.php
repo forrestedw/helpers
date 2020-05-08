@@ -39,4 +39,5 @@ class ArrHelpers
     {
         return Str::contains(strtolower(end($array)), strtolower($contains));
     }
+
 }

@@ -1,7 +1,7 @@
 {
     "name": "forrestedw/helpers",
     "description": "Simple helpers to make human readable code.",
-    "type": "project",
+    "type": "library",
     "require": {
         "ext-pspell": "*"
     },
